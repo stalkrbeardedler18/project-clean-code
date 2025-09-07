@@ -6,6 +6,7 @@ This document outlines the coding standards to follow when contributing to **Pro
 - Write meaningful variable and function names.
 - Keep functions small and focused. Each function should do one thing and do it well.
 - Follow consistent indenting and formatting styles.
+- Prioritize security best practices, including input validation and error handling.
 
 ## Language-Specific Standards
 - **JavaScript**: Use `let` and `const` instead of `var`.

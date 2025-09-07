@@ -12,7 +12,7 @@ This document outlines the coding standards to follow when contributing to **Pro
 - **JavaScript**: Use `let` and `const` instead of `var`.
 - **TypeScript**: Use type annotations and interfaces for improved type safety.
 - **Python**: Follow PEP 8 for styling and best practices.
-- **Java**: Use camelCase for variable names and method names. Prefer `@Override` and `@NotNull` annotations where applicable.
+- **Java**: Use camelCase for variable names and method names. Prefer `@Override` and `@NotNull` annotations where applicable. Also, use the `final` keyword for constants and unmodifiable variables.
 
 ## Comments and Documentation
 - Document your code using comments where necessary and maintain up-to-date documentation.

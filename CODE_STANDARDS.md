@@ -17,3 +17,4 @@ This document outlines the coding standards to follow when contributing to **Pro
 ## Comments and Documentation
 - Document your code using comments where necessary and maintain up-to-date documentation.
 - Use docstrings for complex functions and classes.
+- Ensure that all public methods and modules have corresponding documentation entries to aid in usability.
